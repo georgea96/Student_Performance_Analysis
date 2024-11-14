@@ -8,7 +8,7 @@ In this project, I analyzed student performance data, visualized feature correla
 
 ## Online View of the Results and Visualisations:
 
-[View the notebook Online](https://nbviewer.org/github/georgea96/Student_Performance_Analysis/blob/main/students_analysis.html)
+[View the notebook Online](https://nbviewer.org/github/georgea96/Student_Performance_Analysis/blob/main/students_analysis.html?flush_cache=false)
 
 
 ## Dataset
