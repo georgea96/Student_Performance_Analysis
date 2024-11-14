@@ -6,6 +6,11 @@ This repository contains an analysis and predictive modeling project using the E
 
 In this project, I analyzed student performance data, visualized feature correlations, and trained models to predict students' scores. The project includes preprocessing steps, exploratory data analysis (EDA), feature engineering, model training, and evaluation.
 
+## Online View of the Results and Visualisations:
+
+[View the notebook Online](https://nbviewer.org/github/georgea96/Student_Performance_Analysis/blob/main/students_analysis.html)
+
+
 ## Dataset
 
 The dataset, EduStat was taken from [[here]
@@ -143,7 +148,6 @@ Best Parameters: {'max_depth': 5, 'n_estimators': 600}
 - **Key Features for Predicting Math Scores:** For math scores, the most important predictors are a prior test score and gender.<br/><br/>
 
 - **High Importance of Reading/Writing Scores for Each Other:** When predicting reading scores, knowing the writing score is highly predictive (about 90% importance), and vice versa.
-
 
 ## How to Run
 
